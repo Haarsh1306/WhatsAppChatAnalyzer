@@ -3,21 +3,22 @@ import pandas as pd
 
 
 def preprocess(data):
-    pattern = '\d{1,2}\/\d{2,4}\/\d{2,4},\s\d{1,2}:\d{1,2}\s\w{1,2}\s-\s'
-    pattern1 = '\d{1,2}\/\d{2,4}\/\d{2,4},\s\d{1,2}:\d{1,2}\s-\s'
+    pattern_12hr = '\d{1,2}\/\d{2,4}\/\d{2,4},\s\d{1,2}:\d{1,2}\s\w{1,2}\s-\s'
+    pattern_24hr = '\d{1,2}\/\d{2,4}\/\d{2,4},\s\d{1,2}:\d{1,2}\s-\s'
 
     cnt = 0
-    if len(re.split(pattern1, data)[1:]) == 0:
-        messages = re.split(pattern, data)[1:]
+    # cnt for checking date format --- 0 for 12hr format & --1 for 24hr format
+    if len(re.split(pattern_24hr, data)[1:]) == 0:
+        messages = re.split(pattern_12hr, data)[1:]
         cnt = 0
     else:
-        messages = re.split(pattern1, data)[1:]
+        messages = re.split(pattern_24hr, data)[1:]
         cnt = 1
 
-    if len(re.findall(pattern1, data)) == 0:
-        dates = re.findall(pattern, data)
+    if len(re.findall(pattern_24hr, data)) == 0:
+        dates = re.findall(pattern_12hr, data)
     else:
-        dates = re.findall(pattern1, data)
+        dates = re.findall(pattern_24hr, data)
 
     df = pd.DataFrame({'user_message': messages, 'message_date': dates})
     if cnt == 0:
