@@ -4,11 +4,29 @@ import pandas as pd
 
 def preprocess(data):
     pattern = '\d{1,2}\/\d{2,4}\/\d{2,4},\s\d{1,2}:\d{1,2}\s\w{1,2}\s-\s'
-    messages = re.split(pattern, data)[1:]
-    dates = re.findall(pattern, data)
+    pattern1 = '\d{1,2}\/\d{2,4}\/\d{2,4},\s\d{1,2}:\d{1,2}\s-\s'
+
+    cnt = 0
+    if len(re.split(pattern1, data)[1:]) == 0:
+        messages = re.split(pattern, data)[1:]
+        cnt = 0
+    else:
+        messages = re.split(pattern1, data)[1:]
+        cnt = 1
+
+    if len(re.findall(pattern1, data)) == 0:
+        dates = re.findall(pattern, data)
+    else:
+        dates = re.findall(pattern1, data)
+
     df = pd.DataFrame({'user_message': messages, 'message_date': dates})
+    if cnt == 0:
+        format = '%m/%d/%y, %I:%M %p - '
+    else:
+        format = '%d/%m/%y, %H:%M - '
+
     df['message_date'] = pd.to_datetime(
-        df['message_date'], format='%m/%d/%y, %I:%M %p - ')
+        df['message_date'], format=format)
     df.rename(columns={'message_date': 'date'}, inplace=True)
 
     user = []
