@@ -1,0 +1,921 @@
+27/03/22, 4:58 pm - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+27/03/22, 5:03 pm - Payal Dhingra Mam Ymca: <Media omitted>
+27/03/22, 5:03 pm - Payal Dhingra Mam Ymca: http://www.basketball-reference.com/leagues/NBA_2015_totals.html
+27/03/22, 5:03 pm - Payal Dhingra Mam Ymca: above is the content for Lab 1
+27/03/22, 5:04 pm - Payal Dhingra Mam Ymca: the csv files are shared  with you ..rest will be done tomrw
+28/03/22, 10:41 am - Payal Dhingra Mam Ymca: Program 1 
+To read CSV/tsv/html files and write in CSV file.
+28/03/22, 10:41 am - Payal Dhingra Mam Ymca: Using Pandas
+29/03/22, 2:20 pm - Jaishree CSDS: <Media omitted>
+29/03/22, 2:41 pm - Payal Dhingra Mam Ymca: <Media omitted>
+29/03/22, 2:44 pm - Payal Dhingra Mam Ymca: Book
+29/03/22, 2:44 pm - Payal Dhingra Mam Ymca: <Media omitted>
+29/03/22, 2:49 pm - Payal Dhingra Mam Ymca: Define each of the following data mining functionalities: characterization, discrimination, association and correlation analysis, classification, regression, clustering, and
+outlier analysis. Give examples of each data mining functionality, using a real-life
+database that you are familiar with.
+29/03/22, 2:50 pm - Payal Dhingra Mam Ymca: to be prepared for next lecture👆🏻
+30/03/22, 9:58 am - Payal Dhingra Mam Ymca: <Media omitted>
+30/03/22, 9:58 am - Payal Dhingra Mam Ymca: <Media omitted>
+30/03/22, 9:58 am - Payal Dhingra Mam Ymca: <Media omitted>
+30/03/22, 9:58 am - Payal Dhingra Mam Ymca: <Media omitted>
+30/03/22, 9:58 am - Payal Dhingra Mam Ymca: <Media omitted>
+30/03/22, 9:58 am - Payal Dhingra Mam Ymca: <Media omitted>
+30/03/22, 9:58 am - Payal Dhingra Mam Ymca: <Media omitted>
+30/03/22, 4:50 pm - Payal Dhingra Mam Ymca: Grp admin pls allow others to msg here
+30/03/22, 4:51 pm - Payal Dhingra Mam Ymca: In case any problem they can ask in grp
+30/03/22, 5:03 pm - Jaishree CSDS changed this group's settings to allow all participants to send messages to this group
+04/04/22, 10:00 am - Payal Dhingra Mam Ymca: <Media omitted>
+04/04/22, 10:02 am - Payal Dhingra Mam Ymca: <Media omitted>
+04/04/22, 12:54 pm - Payal Dhingra Mam Ymca: <Media omitted>
+06/04/22, 9:35 am - Payal Dhingra Mam Ymca: <Media omitted>
+06/04/22, 9:36 am - Payal Dhingra Mam Ymca: <Media omitted>
+06/04/22, 9:36 am - Payal Dhingra Mam Ymca: <Media omitted>
+06/04/22, 9:36 am - Payal Dhingra Mam Ymca: <Media omitted>
+06/04/22, 9:38 am - Payal Dhingra Mam Ymca: <Media omitted>
+07/04/22, 5:32 pm - Payal Dhingra Mam Ymca: <Media omitted>
+07/04/22, 5:32 pm - Payal Dhingra Mam Ymca: todays lecture ppt
+07/04/22, 5:32 pm - Payal Dhingra Mam Ymca: <Media omitted>
+07/04/22, 5:32 pm - Payal Dhingra Mam Ymca: and 2 solved examples
+07/04/22, 5:34 pm - Payal Dhingra Mam Ymca: data warehouse schemas, OLTP vs OLAP, 3-tier architecture, OLAP operations
+07/04/22, 5:36 pm - Payal Dhingra Mam Ymca: MODULE-1: INTRODUCTION 
+Introduction to Data Warehousing, Architecture, Data warehouse schemas, OLAP servers, 
+OLAP operations, KDD process, Data Mining: Architecture, Predictive and Descriptive 
+models, Data Preprocessing: Data cleaning & Discretization, Data Mining primitives and 
+Applications, Major issues in data mining
+07/04/22, 5:37 pm - Payal Dhingra Mam Ymca: Data preprocessing , predictive, descriptive techniques will be covered in next lecture
+17/04/22, 7:57 pm - Payal Dhingra Mam Ymca: Hello all
+17/04/22, 7:58 pm - Ritesh Goyal CSDS: Hello mam
+17/04/22, 7:58 pm - Payal Dhingra Mam Ymca: I will be on leave tomorrow lab will not be there..
+17/04/22, 7:58 pm - Payal Dhingra Mam Ymca: I will cover lab on Saturday online mode
+17/04/22, 7:58 pm - Surbhi CSDS: Ok ma'am
+17/04/22, 7:58 pm - +91 96504 94772: Ok mam
+17/04/22, 9:54 pm - Payal Dhingra Mam Ymca: <Media omitted>
+19/04/22, 12:43 pm - Payal Dhingra Mam Ymca: Students are you willing to do AICTE approved minor degree programme bin web development
+19/04/22, 12:43 pm - Payal Dhingra Mam Ymca: Along with your major degree
+19/04/22, 12:43 pm - Payal Dhingra Mam Ymca: Course fee is 20,000
+19/04/22, 12:44 pm - Payal Dhingra Mam Ymca: 4 sems
+19/04/22, 12:44 pm - Payal Dhingra Mam Ymca: https://www.aicte-india.org/sites/default/files/Model_Curriculum/Minor%20Degree%20in%20Adv.%20Web%20Development.pdf
+19/04/22, 12:44 pm - Payal Dhingra Mam Ymca: Syllabus
+19/04/22, 12:44 pm - Payal Dhingra Mam Ymca: Interested students contact me or Amita mam
+19/04/22, 12:44 pm - Payal Dhingra Mam Ymca: This is for 4 th semester students
+19/04/22, 12:45 pm - Payal Dhingra Mam Ymca: This is AICTE LITE course by pupilfirst
+19/04/22, 12:46 pm - Payal Dhingra Mam Ymca: U can search over the internet
+19/04/22, 1:38 pm - Payal Dhingra Mam Ymca: Data mining - predictive and descriptive
+19/04/22, 1:41 pm - Payal Dhingra Mam Ymca: <Media omitted>
+19/04/22, 8:53 pm - Payal Dhingra Mam Ymca: <Media omitted>
+19/04/22, 8:55 pm - Payal Dhingra Mam Ymca: https://forms.gle/nrQYXqcMrB7RCHX6A
+19/04/22, 9:40 pm - Payal Dhingra Mam Ymca: <Media omitted>
+19/04/22, 9:40 pm - Payal Dhingra Mam Ymca: todays pdf
+19/04/22, 9:41 pm - Payal Dhingra Mam Ymca: MODULE-1: INTRODUCTION 
+Introduction to Data Warehousing, Architecture, Data warehouse schemas, OLAP servers, 
+OLAP operations, KDD process, Data Mining: Architecture, Predictive and Descriptive 
+models, Data Preprocessing: Data cleaning & Discretization, Data Mining primitives and 
+Applications, Major issues in data mining
+19/04/22, 9:41 pm - Payal Dhingra Mam Ymca: module 1 completed
+19/04/22, 9:42 pm - Payal Dhingra Mam Ymca: MODULE-2: FREQUENT PATTERN MINING AND CLUSTERING 
+Mining frequent patterns, association and correlations; Association Rule Mining: support & 
+confidence, a-priori algorithm, FP Growth algorithm; Advanced Pattern Mining; Sequential 
+Pattern Mining concepts, Cluster Analysis – Types of Data in Cluster Analysis, Similarity and 
+Distance Measures, Partitioning methods: k-means & k-medoids, Hierarchical Methods: 
+agglomerative and divisive methods; Density-Based Methods, Clustering with Constraints, 
+Outlier Detection
+19/04/22, 9:42 pm - Payal Dhingra Mam Ymca: Module 2 started today..Mining frequent patterns, association and correlations; Association Rule Mining: support & 
+confidence, a-priori algorithm - done
+19/04/22, 10:12 pm - Payal Dhingra Mam Ymca: for data wrangling in python - practice https://www.geeksforgeeks.org/data-wrangling-in-python/
+19/04/22, 10:12 pm - Payal Dhingra Mam Ymca: in tomorrows lab
+19/04/22, 10:16 pm - Payal Dhingra Mam Ymca: This message was deleted
+19/04/22, 10:16 pm - Payal Dhingra Mam Ymca: This message was deleted
+20/04/22, 12:39 pm - Payal Dhingra Mam Ymca: Students interested in this?
+20/04/22, 12:39 pm - Payal Dhingra Mam Ymca: Pls respond
+20/04/22, 12:40 pm - Payal Dhingra Mam Ymca: Yes or No
+20/04/22, 12:40 pm - Payal Dhingra Mam Ymca: Classes will be online .. assignment will be online dashboard access will be given
+20/04/22, 12:41 pm - Payal Dhingra Mam Ymca: Queries will be handled by the experts
+20/04/22, 12:42 pm - Payal Dhingra Mam Ymca: All is you will get 4 certificates per semester for module completion and final minor degree in Web Development
+20/04/22, 12:43 pm - Payal Dhingra Mam Ymca: Certificate like this per sem
+20/04/22, 12:43 pm - Payal Dhingra Mam Ymca: <Media omitted>
+20/04/22, 2:30 pm - Payal Dhingra Mam Ymca: Anyone willing for this event?
+20/04/22, 3:12 pm - Jaishree CSDS: I'll ask and let you know ma'am
+21/04/22, 3:43 pm - Payal Dhingra Mam Ymca: <Media omitted>
+21/04/22, 3:43 pm - Payal Dhingra Mam Ymca: todays lecture
+21/04/22, 3:43 pm - Payal Dhingra Mam Ymca: pls go thru this example in case any doubt may ask anytime
+21/04/22, 6:56 pm - Payal Dhingra Mam Ymca: anyone who know react?
+23/04/22, 6:35 am - Payal Dhingra Mam Ymca: <Media omitted>
+23/04/22, 6:37 am - Payal Dhingra Mam Ymca: This message was deleted
+23/04/22, 6:37 am - Payal Dhingra Mam Ymca: This message was deleted
+23/04/22, 6:37 am - Payal Dhingra Mam Ymca: Monday lab will be online as i m having examination invigilation duty during lab hrs.. online time I will be intimated
+23/04/22, 9:21 am - Ani CSDS: Ok mam
+23/04/22, 10:29 am - Payal Dhingra Mam Ymca: <Media omitted>
+23/04/22, 10:29 am - Payal Dhingra Mam Ymca: Last date for this is 24 th april
+25/04/22, 6:52 pm - Payal Dhingra Mam Ymca: *last date is 26th Apriil
+25/04/22, 6:53 pm - Payal Dhingra Mam Ymca: 26th April
+26/04/22, 10:49 pm - Payal Dhingra Mam Ymca: <Media omitted>
+26/04/22, 10:50 pm - Payal Dhingra Mam Ymca: https://www.kaggle.com/code/sanikamal/data-visualization-using-matplotlib/notebook
+26/04/22, 10:50 pm - Payal Dhingra Mam Ymca: matplotlib for lab tomrw
+27/04/22, 7:00 pm - Payal Dhingra Mam Ymca: What about status of classes tomorrow
+27/04/22, 7:01 pm - Rishabh CSDS: Mam, eco wale sir toh online lenge.
+27/04/22, 7:01 pm - Payal Dhingra Mam Ymca: Ok
+27/04/22, 7:02 pm - Payal Dhingra Mam Ymca: Eco lectures are when
+27/04/22, 7:02 pm - Rishabh CSDS: Only 4 lectures are there first 2 eco then DM
+27/04/22, 7:02 pm - Rishabh CSDS: Before break
+27/04/22, 7:03 pm - Payal Dhingra Mam Ymca: Ok after break u have online?
+27/04/22, 7:03 pm - Muskan CSDS Notes: Yes ma'am
+27/04/22, 7:03 pm - Payal Dhingra Mam Ymca: Ok
+27/04/22, 7:04 pm - Payal Dhingra Mam Ymca: How will you all manage
+27/04/22, 7:04 pm - Payal Dhingra Mam Ymca: First half although should be offline
+27/04/22, 7:04 pm - Payal Dhingra Mam Ymca: As there is no exam
+27/04/22, 8:07 pm - Jaishree CSDS: Ma'am please take the class in online mode as it would be difficult to come to the college for just one class
+27/04/22, 8:07 pm - Aditya CSDS: Yes Ma'am
+27/04/22, 8:07 pm - Ritesh Goyal CSDS: Yes mam
+27/04/22, 8:08 pm - ARYAN CSDS: ++
+27/04/22, 8:08 pm - Ritesh Jha CSDS: ++
+27/04/22, 8:11 pm - Geetika Ymca: Yes ma'am
+27/04/22, 8:13 pm - Geetansh CSDS: ++
+27/04/22, 8:13 pm - Rishabh Bhadana CSDS: Yes mam++
+27/04/22, 8:15 pm - Aryaman CSDS: ++
+27/04/22, 8:16 pm - Hooda CSDS: ++
+27/04/22, 8:24 pm - Babita CSDS: ++
+27/04/22, 8:24 pm - Payal Dhingra Mam Ymca: Ok
+27/04/22, 8:25 pm - Payal Dhingra Mam Ymca: I will take in online mode
+27/04/22, 8:26 pm - Jaishree CSDS: Ok ma'am.. thanks😇
+28/04/22, 11:09 am - Jaishree CSDS: @918800311601 ma'am please share the link for class
+28/04/22, 11:13 am - Payal Dhingra Mam Ymca: I m at college
+28/04/22, 11:13 am - Payal Dhingra Mam Ymca: In a meeting
+28/04/22, 11:13 am - Payal Dhingra Mam Ymca: I will start class at 12
+28/04/22, 11:13 am - Payal Dhingra Mam Ymca: If no issues
+28/04/22, 11:15 am - Jaishree CSDS: Ok ma'am
+28/04/22, 12:03 pm - Jaishree CSDS: Class will start at 12:15 pm
+28/04/22, 12:12 pm - Payal Dhingra Mam Ymca: https://meet.google.com/pgx-udwi-thg
+28/04/22, 12:12 pm - Payal Dhingra Mam Ymca: link for the class
+28/04/22, 1:05 pm - Ani CSDS: <Media omitted>
+28/04/22, 1:05 pm - Ani CSDS: <Media omitted>
+28/04/22, 1:05 pm - Ani CSDS: <Media omitted>
+28/04/22, 1:05 pm - Ani CSDS: <Media omitted>
+28/04/22, 1:05 pm - Ani CSDS: <Media omitted>
+28/04/22, 1:05 pm - Ani CSDS: <Media omitted>
+28/04/22, 1:05 pm - Ani CSDS: <Media omitted>
+28/04/22, 1:05 pm - Raman CSDS: 20001016048
+28/04/22, 1:06 pm - Aditya CSDS: Aditya Sharma: 21001016501
+28/04/22, 1:06 pm - KurKure CSDS: 20001016025
+28/04/22, 1:06 pm - Devansh CSDS: 20001016077
+28/04/22, 1:06 pm - Khushi CSDS: Khushi roll no. 20001016026
+28/04/22, 1:07 pm - Payal Dhingra Mam Ymca: 18th-20th may sessionals
+28/04/22, 1:07 pm - Payal Dhingra Mam Ymca: sessional 1
+28/04/22, 1:10 pm - Babita CSDS: Babita 20001016012
+28/04/22, 1:12 pm - JD CSDS: Jagnesh 20001016021
+28/04/22, 1:22 pm - Garima CSDS: 21001016503 garima
+28/04/22, 1:22 pm - Payal Dhingra Mam Ymca: ok
+28/04/22, 2:35 pm - Jaishree CSDS: What will be the syllabus for first sessional ma'am?
+28/04/22, 2:57 pm - ARYAN CSDS: Aryan panwar
+21001016502
+28/04/22, 3:06 pm - JD CSDS: Jagnesh 20001016021
+28/04/22, 3:57 pm - Payal Dhingra Mam Ymca: What so ever is covered
+01/05/22, 6:07 pm - Payal Dhingra Mam Ymca: Hello all,
+01/05/22, 6:07 pm - Payal Dhingra Mam Ymca: Tomorrow I m having exam invigilation duty
+01/05/22, 6:07 pm - Ani CSDS: Hello mam
+01/05/22, 6:07 pm - Payal Dhingra Mam Ymca: Lab will not be there
+01/05/22, 6:08 pm - Payal Dhingra Mam Ymca: Practice this on your own
+02/05/22, 12:04 am - Payal Dhingra Mam Ymca: Wednesday also lab will not be there i hve duty on that day too
+02/05/22, 12:04 am - Payal Dhingra Mam Ymca: Will take online if possible on Saturday
+02/05/22, 12:04 am - Jaishree CSDS: Ok ma'am
+03/05/22, 9:15 pm - Payal Dhingra Mam Ymca: Class will come when?
+03/05/22, 9:21 pm - Kshitiz CSDS: class will not cum tommorow
+03/05/22, 9:21 pm - Ani CSDS: -1
+03/05/22, 9:23 pm - Aditya CSDS: This message was deleted
+03/05/22, 9:23 pm - Payal Dhingra Mam Ymca: Tomorrow morning  my duty is there i will not be able to take the lab
+03/05/22, 9:24 pm - Payal Dhingra Mam Ymca: I communicated earlier too
+03/05/22, 9:24 pm - Payal Dhingra Mam Ymca: Are you coming on Thursday
+03/05/22, 9:29 pm - Jaishree CSDS: Yes ma'am
+03/05/22, 10:01 pm - Payal Dhingra Mam Ymca: Ok
+05/05/22, 9:17 am - Payal Dhingra Mam Ymca: Today i won't take class.. as i hve some work class will be adjusted sometime later
+05/05/22, 9:30 am - Jaishree CSDS: Ok ma'am
+08/05/22, 3:14 pm - Tanya YMCA joined using this group's invite link
+08/05/22, 7:25 pm - Payal Dhingra Mam Ymca: Hi
+08/05/22, 7:25 pm - Payal Dhingra Mam Ymca: Students are coming tomorrow?
+08/05/22, 7:25 pm - Payal Dhingra Mam Ymca: Lab
+08/05/22, 7:25 pm - Bhavya CSDS: Yes ma'am
+08/05/22, 7:25 pm - Rishabh CSDS: Mam ghar se aane mai thoda sa late hosakta bss
+08/05/22, 7:25 pm - Payal Dhingra Mam Ymca: Okay
+08/05/22, 7:31 pm - Rahul CSDS: +++
+08/05/22, 7:34 pm - Bharat CSDS: ++
+08/05/22, 7:42 pm - Ani CSDS: ++
+08/05/22, 7:43 pm - Kshitiz CSDS: ++
+08/05/22, 7:46 pm - JD CSDS: ++
+08/05/22, 7:58 pm - Payal Dhingra Mam Ymca: <Media omitted>
+08/05/22, 7:58 pm - Payal Dhingra Mam Ymca: Sessional 1 syllabus
+08/05/22, 7:59 pm - Payal Dhingra Mam Ymca: Module 1 complete
+Module 2 association n apriori 
+Module 3 classification complete
+08/05/22, 8:00 pm - Payal Dhingra Mam Ymca: Topic left Neural network n backpropagation
+08/05/22, 8:12 pm - Ravi CSDS: 😳
+08/05/22, 8:13 pm - Neeraj Keeda 🪳: Mam bht jda h y
+08/05/22, 8:13 pm - Rishabh CSDS: zada ni h mam😅
+08/05/22, 8:14 pm - Rahul CSDS: +++
+08/05/22, 8:21 pm - +91 82878 89628: ++
+08/05/22, 8:21 pm - +91 82878 89628: ++
+08/05/22, 8:21 pm - +91 98124 41174: ++
+08/05/22, 8:23 pm - +91 82952 49361: ++
+08/05/22, 8:24 pm - Bhavya CSDS: ++
+08/05/22, 8:24 pm - Hooda CSDS: ++
+08/05/22, 8:24 pm - JD CSDS: ++
+08/05/22, 8:24 pm - Devansh CSDS: ++
+08/05/22, 8:24 pm - Garima CSDS: ++
+08/05/22, 8:24 pm - Priyanka CSDS: ++
+08/05/22, 8:27 pm - Siddharth Singh CSDS: ++
+08/05/22, 8:28 pm - Muskan CSDS Notes: +++
+08/05/22, 8:30 pm - Tanya YMCA: ++
+08/05/22, 8:35 pm - Payal Dhingra Mam Ymca: Fir jitna ho gaya
+08/05/22, 8:35 pm - Payal Dhingra Mam Ymca: Till that
+08/05/22, 8:35 pm - Payal Dhingra Mam Ymca: Only 1 topic hi extra
+08/05/22, 8:35 pm - Payal Dhingra Mam Ymca: Is week ka add kiya tha
+08/05/22, 8:36 pm - Ravi CSDS: Mam unit 2 tak de do.. utna hi kr payenge
+08/05/22, 8:36 pm - Devansh CSDS: ++
+08/05/22, 8:37 pm - Rahul CSDS: +++
+08/05/22, 8:37 pm - Neeraj Keeda 🪳: Mam bht jda syllabus h
+08/05/22, 8:51 pm - Khushi CSDS: ++
+08/05/22, 9:09 pm - Payal Dhingra Mam Ymca: Chalo theek hai
+08/05/22, 9:09 pm - Payal Dhingra Mam Ymca: Do till module 2
+08/05/22, 9:09 pm - Payal Dhingra Mam Ymca: Module 1 complete
+08/05/22, 9:10 pm - Payal Dhingra Mam Ymca: Module 2 association n apriori
+08/05/22, 9:10 pm - Payal Dhingra Mam Ymca: Done👍🏻
+08/05/22, 9:10 pm - Rahul CSDS: Ohkk mam 🤟🏻
+08/05/22, 9:11 pm - Bhavya CSDS: Thankyou ma'am
+08/05/22, 9:11 pm - Rahul CSDS: +++
+08/05/22, 9:12 pm - Siddharth Singh CSDS: Thank you maam
+08/05/22, 9:12 pm - JD CSDS: ++
+08/05/22, 9:13 pm - Khushi CSDS: Thanku mam
+10/05/22, 5:49 pm - Payal Dhingra Mam Ymca: All students pls note.. Thursday i will take the doubts
+10/05/22, 5:49 pm - Payal Dhingra Mam Ymca: Module 1
+10/05/22, 5:49 pm - Payal Dhingra Mam Ymca: Module 2 till fp growth
+11/05/22, 8:04 am - Payal Dhingra Mam Ymca: <Media omitted>
+11/05/22, 8:04 am - Payal Dhingra Mam Ymca: for todays lab
+11/05/22, 8:04 am - Payal Dhingra Mam Ymca: logistic regression : dataset
+11/05/22, 9:43 am - Payal Dhingra Mam Ymca: <Media omitted>
+11/05/22, 9:43 am - Payal Dhingra Mam Ymca: <Media omitted>
+11/05/22, 9:43 am - Payal Dhingra Mam Ymca: <Media omitted>
+11/05/22, 9:44 am - Payal Dhingra Mam Ymca: <Media omitted>
+11/05/22, 9:44 am - Payal Dhingra Mam Ymca: <Media omitted>
+11/05/22, 9:44 am - Payal Dhingra Mam Ymca: 4
+11/05/22, 9:44 am - Payal Dhingra Mam Ymca: 5
+11/05/22, 9:55 pm - Jaishree CSDS: @918800311601 ma'am please cancel tomorrow's class
+11/05/22, 10:06 pm - Payal Dhingra Mam Ymca: Ok
+11/05/22, 10:06 pm - Payal Dhingra Mam Ymca: I will take doubt online
+11/05/22, 10:56 pm - Jaishree CSDS: Ok ma'am
+11/05/22, 10:56 pm - Jaishree CSDS: Thanks
+22/05/22, 4:58 am - +91 92898 42451 left
+22/05/22, 1:53 pm - Payal Dhingra Mam Ymca: hello all
+22/05/22, 1:53 pm - Payal Dhingra Mam Ymca: tomrw lab /
+22/05/22, 1:53 pm - Payal Dhingra Mam Ymca: ?
+22/05/22, 3:00 pm - Surbhi CSDS: Yes mam
+22/05/22, 10:42 pm - Payal Dhingra Mam Ymca: In tomorrows lab you have to practice logistic regression for which code is already shared
+22/05/22, 10:42 pm - Payal Dhingra Mam Ymca: data set
+22/05/22, 10:44 pm - Payal Dhingra Mam Ymca: try to complete the lab practical till now and maintain a lab file doc format (soft copy)
+25/05/22, 8:11 am - Payal Dhingra Mam Ymca: Gm all come to lab at 10.00
+25/05/22, 8:11 am - Payal Dhingra Mam Ymca: As i will be late today
+25/05/22, 8:20 am - Ani CSDS: Ok mam
+25/05/22, 8:36 am - Payal Dhingra Mam Ymca: Lab Practical for today Decision Tree..
+25/05/22, 8:36 am - Payal Dhingra Mam Ymca: <Media omitted>
+25/05/22, 8:36 am - Payal Dhingra Mam Ymca: data set
+25/05/22, 8:37 am - Payal Dhingra Mam Ymca: Program : To builld decision tree classifier for given dataset and check the accuracy.
+25/05/22, 8:37 am - Payal Dhingra Mam Ymca: of the model'
+25/05/22, 8:38 am - Payal Dhingra Mam Ymca: <Media omitted>
+25/05/22, 8:39 am - Payal Dhingra Mam Ymca: <Media omitted>
+25/05/22, 8:39 am - Payal Dhingra Mam Ymca: monday Lab students also pls do till here
+25/05/22, 8:41 am - Payal Dhingra Mam Ymca: clustering will be done after vacations when it will be covered in class
+25/05/22, 10:34 pm - Payal Dhingra Mam Ymca: tomrw classification
+25/05/22, 10:34 pm - Payal Dhingra Mam Ymca: revise karana h ya fir clustering next module start
+25/05/22, 10:35 pm - Rishabh CSDS: Mam kl ke baad toh chuttia ni h??
+25/05/22, 10:36 pm - Ani CSDS: Bache ghar ki trf rwana ho chuke hein mam
+25/05/22, 10:36 pm - Jaishree CSDS: Ma'am next module after vacations start krna better rahega
+25/05/22, 10:36 pm - Ani CSDS: 20-30 beche mushkil se ayenge
+25/05/22, 10:36 pm - Devansh CSDS: Maam nya module chuttiyon ke baad start karva dena
+25/05/22, 10:36 pm - Devansh CSDS: Online revise krvalo maam please
+25/05/22, 10:36 pm - Kshitiz CSDS: Yes
+25/05/22, 10:36 pm - Kshitiz CSDS: Mam
+25/05/22, 10:36 pm - Rishabh CSDS: +
+25/05/22, 10:37 pm - Payal Dhingra Mam Ymca: kal classification ..
+25/05/22, 10:37 pm - Payal Dhingra Mam Ymca: then clustering after vacations
+25/05/22, 10:37 pm - Payal Dhingra Mam Ymca: last module is theory
+25/05/22, 10:37 pm - Rishabh CSDS: Ohk mam
+25/05/22, 10:37 pm - Payal Dhingra Mam Ymca: FP growth tak sessional mai jo aya tha
+25/05/22, 10:37 pm - Payal Dhingra Mam Ymca: usme kuch problem
+25/05/22, 10:38 pm - Jaishree CSDS: No ma'am
+25/05/22, 10:38 pm - Payal Dhingra Mam Ymca: then classification
+25/05/22, 10:38 pm - Payal Dhingra Mam Ymca: ek bar revise
+25/05/22, 10:38 pm - Jaishree CSDS: Ok ma'am
+26/05/22, 10:42 am - Payal Dhingra Mam Ymca: How many students coming?
+26/05/22, 11:08 am - Jaishree CSDS: Around 20 students are there in the class ma'am
+26/05/22, 11:09 am - Payal Dhingra Mam Ymca: Ok
+26/05/22, 11:27 am - Payal Dhingra Mam Ymca: <Media omitted>
+05/07/22, 7:35 pm - Payal Dhingra Mam Ymca: <Media omitted>
+05/07/22, 7:35 pm - Payal Dhingra Mam Ymca: Todays lecture
+05/07/22, 7:36 pm - Payal Dhingra Mam Ymca: MODULE-2: FREQUENT PATTERN MINING AND CLUSTERING 
+Mining frequent patterns, association and correlations; Association Rule Mining: support & 
+confidence, a-priori algorithm, FP Growth algorithm; Advanced Pattern Mining; Sequential 
+Pattern Mining concepts, Cluster Analysis – Types of Data in Cluster Analysis, Similarity and 
+Distance Measures, Partitioning methods: k-means & k-medoids, Hierarchical Methods: 
+agglomerative and divisive methods; Density-Based Methods, Clustering with Constraints, 
+Outlier Detection
+05/07/22, 7:36 pm - Payal Dhingra Mam Ymca: Cluster Analysis – Types of Data in Cluster Analysis, Similarity and 
+Distance Measures, Partitioning methods: k-means & k-medoids
+05/07/22, 7:36 pm - Payal Dhingra Mam Ymca: covered..
+05/07/22, 7:37 pm - Payal Dhingra Mam Ymca: anyone has made lab file .. of all programs
+05/07/22, 7:37 pm - Payal Dhingra Mam Ymca: covred in lab..
+06/07/22, 9:48 am - Payal Dhingra Mam Ymca: <Media omitted>
+06/07/22, 9:48 am - Payal Dhingra Mam Ymca: <Media omitted>
+06/07/22, 9:48 am - Payal Dhingra Mam Ymca: Jaccard similarity
+06/07/22, 9:49 am - Payal Dhingra Mam Ymca: Euclidean distance
+06/07/22, 10:03 am - Payal Dhingra Mam Ymca: logistic regression : dataset
+06/07/22, 10:04 am - Payal Dhingra Mam Ymca: Last lab regression was done
+06/07/22, 10:04 am - Payal Dhingra Mam Ymca: <Media omitted>
+06/07/22, 10:04 am - Payal Dhingra Mam Ymca: <Media omitted>
+06/07/22, 10:04 am - Payal Dhingra Mam Ymca: <Media omitted>
+06/07/22, 10:04 am - Payal Dhingra Mam Ymca: <Media omitted>
+06/07/22, 10:04 am - Payal Dhingra Mam Ymca: <Media omitted>
+06/07/22, 10:04 am - Payal Dhingra Mam Ymca: <Media omitted>
+06/07/22, 11:53 am - Bhavesh CSDS: <Media omitted>
+06/07/22, 11:53 am - Bhavesh CSDS: <Media omitted>
+06/07/22, 11:53 am - Bhavesh CSDS: <Media omitted>
+06/07/22, 11:53 am - Bhavesh CSDS: <Media omitted>
+06/07/22, 11:53 am - Bhavesh CSDS: <Media omitted>
+06/07/22, 11:53 am - Bhavesh CSDS: <Media omitted>
+07/07/22, 2:10 pm - Payal Dhingra Mam Ymca: https://forms.gle/iwTSE8qqrsVNzyCMA
+07/07/22, 2:10 pm - Payal Dhingra Mam Ymca: All pls fill this
+07/07/22, 2:10 pm - Payal Dhingra Mam Ymca: As required by my phd student
+12/07/22, 2:31 pm - Jaishree CSDS: Data mining assignment:-
+Web mining
+(Web Content Mining
++Web Structure Mining
++Web Usage Mining)
+Deadline: 19 July 2022
+17/07/22, 4:07 pm - Payal Dhingra Mam Ymca: Tomorrow there will be no lab
+17/07/22, 4:07 pm - Payal Dhingra Mam Ymca: As i hve sessional duty
+17/07/22, 4:08 pm - Payal Dhingra Mam Ymca: https://www.simplilearn.com/tutorials/python-tutorial/time-series-analysis-in-python
+17/07/22, 4:08 pm - Payal Dhingra Mam Ymca: Try out this
+17/07/22, 4:08 pm - Payal Dhingra Mam Ymca: Time series program
+17/07/22, 4:08 pm - Payal Dhingra Mam Ymca: 9th program
+17/07/22, 4:08 pm - Payal Dhingra Mam Ymca: And complete the file
+19/07/22, 1:52 pm - Payal Dhingra Mam Ymca: Good afternoon all
+19/07/22, 1:52 pm - Payal Dhingra Mam Ymca: I will take this lecture tomorrow
+19/07/22, 1:52 pm - Payal Dhingra Mam Ymca: In online mode...
+19/07/22, 1:52 pm - Payal Dhingra Mam Ymca: With lab
+19/07/22, 1:52 pm - Rishabh CSDS: Ohk mam
+20/07/22, 3:37 pm - Payal Dhingra Mam Ymca: All. Starting next week JEE mains exam will be conducted in our department. Labs on first floor would be engaged for the same. So all lab classes would be held online. But theory classes would continue to be taken in OFFLINE mode. All plz ensure the same.
+25/07/22, 10:03 am - Payal Dhingra Mam Ymca: lab program
+25/07/22, 10:03 am - Payal Dhingra Mam Ymca: for todays lab
+25/07/22, 10:05 am - Payal Dhingra Mam Ymca: <Media omitted>
+25/07/22, 10:37 am - Payal Dhingra Mam Ymca: Some students personaly messaged to send notes
+25/07/22, 10:37 am - Payal Dhingra Mam Ymca: which topic u want
+25/07/22, 10:41 am - Payal Dhingra Mam Ymca: <Media omitted>
+25/07/22, 10:41 am - Payal Dhingra Mam Ymca: <Media omitted>
+25/07/22, 10:41 am - Payal Dhingra Mam Ymca: <Media omitted>
+25/07/22, 10:41 am - Payal Dhingra Mam Ymca: <Media omitted>
+25/07/22, 11:03 am - Payal Dhingra Mam Ymca: FP Growth algorithm; Advanced Pattern Mining; Sequential 
+Pattern Mining concepts, Cluster Analysis – Types of Data in Cluster Analysis, Similarityand 
+Distance Measures, Partitioning methods: k-means & k-medoids, Hierarchical Methods: 
+agglomerative and divisive methods; Density-Based Methods, Clustering with Constraints, 
+Outlier Detection 
+MODULE-3: CLASSIFICATION AND PREDICTION 
+Classification: Basic Concepts, Decision tree induction, Bayesian classification, Bayesian 
+Belief Networks; Lazy Learners, Rule based classification, Model Evaluation and Selection, 
+improve classifier accuracy, back propagation through Neural Networks, Genetic Algorithm, 
+Support Vector Machines, Prediction: linear and non-linear regression techniques. 
+MODULE-4: ADVANCED MINING APPLICATIONS 
+Mining Complex Data Types: Mining Data Streams: Stream Data Processing and Stream 
+Data Systems, Mining Time series Data: Periodicity Analysis for time related sequence data, 
+Similarity search in Time-series analysis; Web Mining, Web page layout structure; mining web 
+link structure, content and usage patterns; Recent trends in Distributed Warehousing and Data 
+Mining, Class Imbalance Problem; Graph Mining; Social Network Analysis
+25/07/22, 11:03 am - Payal Dhingra Mam Ymca: syllabus for second sessionals
+25/07/22, 11:05 am - Payal Dhingra Mam Ymca: NN example, Genetic Algorithm, 
+Support Vector Machines, Graph Mining; Social Network Analysis topics left
+25/07/22, 11:05 am - Payal Dhingra Mam Ymca: MODULE-4: ADVANCED MINING APPLICATIONS 
+Mining Complex Data Types: Mining Data Streams: Stream Data Processing and Stream 
+Data Systems, Mining Time series Data: Periodicity Analysis for time related sequence data, 
+Similarity search in Time-series analysis; Web Mining, Web page layout structure; mining web 
+link structure, content and usage patterns; Recent trends in Distributed Warehousing and Data 
+Mining, Class Imbalance Problem; Graph Mining; Social Network Analys
+25/07/22, 11:05 am - Payal Dhingra Mam Ymca: will share notes for Module 4 - all theory
+26/07/22, 1:28 pm - Payal Dhingra Mam Ymca: Hello
+26/07/22, 1:28 pm - Payal Dhingra Mam Ymca: Wht is the status of class today
+26/07/22, 1:38 pm - Harsh: Bache kam aaye h ma'am
+26/07/22, 1:38 pm - Kshitiz CSDS: Bhot kam
+26/07/22, 1:38 pm - Kshitiz CSDS: 🥲
+26/07/22, 1:39 pm - Payal Dhingra Mam Ymca: Ok..
+28/07/22, 9:51 am - Payal Dhingra Mam Ymca: Class will be at 10.30 in online mode .
+28/07/22, 9:51 am - Payal Dhingra Mam Ymca: I m on leave today
+28/07/22, 10:03 am - Surbhi CSDS: Ok mam
+28/07/22, 10:23 am - Payal Dhingra Mam Ymca: I got sudden occupancy.. no class today i will reschedule it later
+28/07/22, 10:26 am - +91 82878 89628: This message was deleted
+28/07/22, 10:26 am - +91 82878 89628: This message was deleted
+28/07/22, 10:27 am - Ani CSDS: 💀
+28/07/22, 10:27 am - +91 82878 89628: This message was deleted
+28/07/22, 10:28 am - Tushar CSDS: hecked.
+28/07/22, 10:28 am - Raman CSDS: 👽👾
+28/07/22, 10:29 am - Rishabh CSDS: This message was deleted
+28/07/22, 10:30 am - +91 82878 89628: galti se type hogya
+28/07/22, 10:43 am - Nitish CSDS: <Media omitted>
+31/07/22, 9:08 pm - Payal Dhingra Mam Ymca: <Media omitted>
+31/07/22, 9:08 pm - Payal Dhingra Mam Ymca: 2 programs initial python basics k include kar lete h
+31/07/22, 9:09 pm - Payal Dhingra Mam Ymca: Pycaret not include in file just for practice
+31/07/22, 9:36 pm - Rishabh CSDS: Mam these?
+31/07/22, 9:36 pm - Payal Dhingra Mam Ymca: Tomorrow
+31/07/22, 9:36 pm - Rishabh CSDS: Ok mam
+01/08/22, 9:09 am - Payal Dhingra Mam Ymca: I will reach late in lab
+01/08/22, 9:09 am - Payal Dhingra Mam Ymca: At 10.
+01/08/22, 11:37 am - Payal Dhingra Mam Ymca: Complete file with 8 programs 2 programs i wil send in evening which ones to include
+01/08/22, 11:37 am - Payal Dhingra Mam Ymca: Wednesday we keep internal for both grps
+01/08/22, 11:37 am - Payal Dhingra Mam Ymca: Syllabus: data mining theory concepts + lab file implementation , details libraries used
+01/08/22, 11:38 am - Payal Dhingra Mam Ymca: For viva
+01/08/22, 11:39 am - Payal Dhingra Mam Ymca: For sessional last module theory topics i wi send the content also by evening today
+01/08/22, 11:39 am - Payal Dhingra Mam Ymca: Topics left theory: neural network example svm Genetic algorithm
+01/08/22, 11:40 am - Payal Dhingra Mam Ymca: Wil cover this week
+01/08/22, 11:40 am - Aditya CSDS: This message was deleted
+01/08/22, 11:40 am - Payal Dhingra Mam Ymca: Wed G1 has project lb
+01/08/22, 11:40 am - Payal Dhingra Mam Ymca: ?
+01/08/22, 11:41 am - Payal Dhingra Mam Ymca: First 1.30 hrs for one grp then next group after attending project lab you will come
+01/08/22, 11:41 am - Aditya CSDS: G2 ki project lab h Wed ko
+01/08/22, 11:42 am - Payal Dhingra Mam Ymca: Otherwise we can keep on Thursday Friday
+01/08/22, 11:42 am - Payal Dhingra Mam Ymca: Whenever free
+01/08/22, 11:42 am - Payal Dhingra Mam Ymca: For g2
+01/08/22, 11:42 am - Jaishree CSDS: Mam can you take the viva on thurday for both the groups?
+01/08/22, 11:43 am - Payal Dhingra Mam Ymca: Ok
+01/08/22, 11:43 am - Parijat CSDS: ++
+01/08/22, 11:43 am - Payal Dhingra Mam Ymca: First half
+01/08/22, 11:43 am - Payal Dhingra Mam Ymca: ?
+01/08/22, 11:43 am - Jaishree CSDS: We have two classes and lunch break as well.. there would be enough time
+01/08/22, 11:44 am - Jaishree CSDS: We have economics from 9:15 to 11:05. Viva can be conducted after this
+01/08/22, 11:44 am - Jaishree CSDS: Class*
+01/08/22, 11:46 am - Payal Dhingra Mam Ymca: Ok
+01/08/22, 11:46 am - Payal Dhingra Mam Ymca: For whole class
+01/08/22, 11:46 am - Payal Dhingra Mam Ymca: This message was deleted
+01/08/22, 11:46 am - Payal Dhingra Mam Ymca: This message was deleted
+01/08/22, 11:47 am - Payal Dhingra Mam Ymca: Or for one group
+01/08/22, 11:48 am - Ravi CSDS: +
+01/08/22, 11:49 am - Payal Dhingra Mam Ymca: Ok
+01/08/22, 11:50 am - Payal Dhingra Mam Ymca: Implementation how you will do
+01/08/22, 11:50 am - Payal Dhingra Mam Ymca: Better to keep  1 grp
+01/08/22, 12:48 pm - Devansh CSDS: +
+01/08/22, 12:51 pm - +91 98124 41174: +
+01/08/22, 1:37 pm - Payal Dhingra Mam Ymca: Okay
+02/08/22, 12:05 am - Payal Dhingra Mam Ymca: <Media omitted>
+02/08/22, 12:12 am - Payal Dhingra Mam Ymca: <Media omitted>
+02/08/22, 12:14 am - Payal Dhingra Mam Ymca: <Media omitted>
+02/08/22, 12:18 am - Payal Dhingra Mam Ymca: <Media omitted>
+02/08/22, 12:22 am - Payal Dhingra Mam Ymca: <Media omitted>
+02/08/22, 12:24 am - Payal Dhingra Mam Ymca: <Media omitted>
+02/08/22, 12:24 am - Payal Dhingra Mam Ymca: only basics leave implementation
+02/08/22, 12:25 am - Payal Dhingra Mam Ymca: <Media omitted>
+02/08/22, 11:18 am - Payal Dhingra Mam Ymca: https://youtu.be/H9yACitf-KM
+02/08/22, 11:19 am - Payal Dhingra Mam Ymca: This is enough although there are equations also for all 3 lines... If you can learn equations as well then it would be better...
+02/08/22, 11:20 am - Payal Dhingra Mam Ymca: SVM for linearly separable u can do... Non linearly separable will be complex... Syllabus mai svm hi likha hai.. only this much required
+02/08/22, 12:29 pm - Bhavya CSDS: Sirf linearly separable wala hi krna ?
+02/08/22, 12:32 pm - Payal Dhingra Mam Ymca: Yes
+02/08/22, 12:32 pm - Payal Dhingra Mam Ymca: FP Growth algorithm; Advanced Pattern Mining; Sequential 
+Pattern Mining concepts, Cluster Analysis – Types of Data in Cluster Analysis, Similarityand 
+Distance Measures, Partitioning methods: k-means & k-medoids, Hierarchical Methods: 
+agglomerative and divisive methods; Density-Based Methods, Clustering with Constraints, 
+Outlier Detection 
+MODULE-3: CLASSIFICATION AND PREDICTION 
+Classification: Basic Concepts, Decision tree induction, Bayesian classification, Bayesian 
+Belief Networks; Lazy Learners, Rule based classification, Model Evaluation and Selection, 
+improve classifier accuracy, back propagation through Neural Networks, Genetic Algorithm, 
+Support Vector Machines, Prediction: linear and non-linear regression techniques. 
+MODULE-4: ADVANCED MINING APPLICATIONS 
+Mining Complex Data Types: Mining Data Streams: Stream Data Processing and Stream 
+Data Systems, Mining Time series Data: Periodicity Analysis for time related sequence data, 
+Similarity search in Time-series analysis; Web Mining, Web page layout structure; mining web 
+link structure, content and usage patterns; Recent trends in Distributed Warehousing and Data 
+Mining, Class Imbalance Problem; Graph Mining; Social Network Analysis
+02/08/22, 12:32 pm - Payal Dhingra Mam Ymca: Only SVM
+02/08/22, 12:33 pm - Payal Dhingra Mam Ymca: Machine learning level pe non linear
+02/08/22, 12:33 pm - Payal Dhingra Mam Ymca: Kernels
+02/08/22, 12:33 pm - Payal Dhingra Mam Ymca: 5th sem
+02/08/22, 12:33 pm - Payal Dhingra Mam Ymca: Mk
+02/08/22, 12:33 pm - Payal Dhingra Mam Ymca: Machine learning mai hai
+02/08/22, 12:33 pm - Payal Dhingra Mam Ymca: Abhi only intro
+02/08/22, 1:29 pm - Payal Dhingra Mam Ymca: <Media omitted>
+02/08/22, 1:32 pm - Payal Dhingra Mam Ymca: Today class i will take online
+02/08/22, 1:32 pm - Payal Dhingra Mam Ymca: At 2
+02/08/22, 1:56 pm - Payal Dhingra Mam Ymca: This message was deleted
+02/08/22, 1:56 pm - Harsh: Gmeet p krlo ma'am
+02/08/22, 1:57 pm - Payal Dhingra Mam Ymca: ok
+02/08/22, 1:58 pm - Payal Dhingra Mam Ymca: https://meet.google.com/koy-pmvq-pxw
+02/08/22, 1:58 pm - Payal Dhingra Mam Ymca: join at gmeet
+02/08/22, 2:37 pm - Payal Dhingra Mam Ymca: <Media omitted>
+02/08/22, 2:44 pm - Payal Dhingra Mam Ymca: KNN and Lazy Lerners
+02/08/22, 2:44 pm - Payal Dhingra Mam Ymca: Prediction: linear and non-linear regression techniques.
+02/08/22, 2:45 pm - Payal Dhingra Mam Ymca: non linear techniwque is neuton raphson's method  which u can only mention rest explain regression in general
+02/08/22, 2:45 pm - Payal Dhingra Mam Ymca: if in case in exam non liner come... as it will be complex
+02/08/22, 2:46 pm - Payal Dhingra Mam Ymca: to teach all methods of non linear regression at this point will be convered in ML in sem 5
+02/08/22, 2:47 pm - Payal Dhingra Mam Ymca: <Media omitted>
+02/08/22, 2:48 pm - Payal Dhingra Mam Ymca: i will send 2 more python programs to inculde in file
+02/08/22, 2:49 pm - Payal Dhingra Mam Ymca: 1. To detect outlier using IQR method (Box Plot)
+02/08/22, 2:49 pm - Payal Dhingra Mam Ymca: https://towardsdev.com/outlier-detection-using-iqr-method-and-box-plot-in-python-82e1e15232bd
+02/08/22, 2:59 pm - Payal Dhingra Mam Ymca: 10. Visualize social/network in python https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
+02/08/22, 2:59 pm - Payal Dhingra Mam Ymca: very interesting one if you can include in file
+02/08/22, 3:00 pm - Payal Dhingra Mam Ymca: using PyVis
+02/08/22, 3:00 pm - Payal Dhingra Mam Ymca: and this is recent too
+02/08/22, 8:25 pm - Payal Dhingra Mam Ymca: Complete lab file with 10 programs will check file on Thursday
+02/08/22, 8:26 pm - Payal Dhingra Mam Ymca: Also try any program using pyvis
+02/08/22, 8:26 pm - Payal Dhingra Mam Ymca: Keep file. Programs simple
+02/08/22, 8:26 pm - Kshitiz CSDS: Ok mam
+02/08/22, 8:27 pm - Payal Dhingra Mam Ymca: Syllabus for sessional 2
+02/08/22, 8:28 pm - Payal Dhingra Mam Ymca: Sessional 1 sheets will show on Thursday for sure
+03/08/22, 10:33 am - Aditya CSDS: Ma'am syllabus jyada h, thoda kam kardo
+03/08/22, 10:33 am - Surbhi CSDS: +1
+03/08/22, 10:33 am - Bhavya CSDS: +++++
+03/08/22, 10:33 am - Devansh CSDS: +1
+03/08/22, 10:33 am - Geetika Ymca: ++
+03/08/22, 10:33 am - Rahul CSDS: +++
+03/08/22, 10:33 am - Tanya YMCA: This message was deleted
+03/08/22, 10:34 am - Tanya YMCA: +1
+03/08/22, 10:34 am - ARYAN CSDS: ++
+03/08/22, 10:34 am - +91 98124 41174: ++
+03/08/22, 10:34 am - Muskan CSDS Notes: +1
+03/08/22, 10:34 am - Siddharth Singh CSDS: ++
+03/08/22, 10:34 am - Khushi CSDS: +1
+03/08/22, 10:35 am - Muskan CSDS Notes: Yes ma'am kaafi jada hai
+03/08/22, 10:35 am - Prince Rathore CSDS: ++
+03/08/22, 10:35 am - Muskan CSDS Notes: Itne time mei itna prepare nhi ho pyega
+03/08/22, 10:35 am - Devansh CSDS: ++
+03/08/22, 10:35 am - Smriti CSDS: +1
+03/08/22, 10:36 am - Ayush CSDS: +
+03/08/22, 10:37 am - Mehak CSDS: +1
+03/08/22, 10:38 am - Smriti CSDS: Ma'am ek din meh 2 2 exams h , nhi ho paega ita saara syllabus sessional meh
+03/08/22, 10:38 am - Komal CSDS: ++
+03/08/22, 10:38 am - Muskan CSDS Notes: +1
+03/08/22, 10:38 am - Rahul CSDS: +++
+03/08/22, 10:38 am - Varun CSDS: +
+03/08/22, 10:38 am - +91 96504 94772: ++
+03/08/22, 10:39 am - Raman CSDS: -|- ++++
+03/08/22, 10:39 am - Hooda CSDS: ++
+03/08/22, 10:46 am - +91 93549 27622: ++
+03/08/22, 10:46 am - Ritesh Jha CSDS: ++
+03/08/22, 10:47 am - Siya CSDS: ++
+03/08/22, 10:47 am - Anjali CSDS 2: ++
+03/08/22, 10:47 am - Sumit CSDS: ++++
+03/08/22, 10:50 am - Payal Dhingra Mam Ymca: Yes syllabus jyada h
+03/08/22, 10:51 am - Bhavya CSDS: Yes mam
+03/08/22, 10:52 am - Muskan CSDS Notes: Yes ma'am km krdo ma'am
+03/08/22, 10:55 am - Payal Dhingra Mam Ymca: Last module hata de toh theory saara khatam
+03/08/22, 10:55 am - Payal Dhingra Mam Ymca: Module last mai only one topic web mining
+03/08/22, 10:56 am - Payal Dhingra Mam Ymca: Rahte hai ... Baki prepare for main exam
+03/08/22, 10:56 am - Payal Dhingra Mam Ymca: In case anything need to be covered again let me know
+03/08/22, 10:56 am - Payal Dhingra Mam Ymca: Is this fine
+03/08/22, 11:00 am - Jaishree CSDS: Ok ma'am
+03/08/22, 11:01 am - Payal Dhingra Mam Ymca: FP Growth algorithm; Advanced Pattern Mining; Sequential 
+Pattern Mining concepts, Cluster Analysis – Types of Data in Cluster Analysis, Similarityand 
+Distance Measures, Partitioning methods: k-means & k-medoids, Hierarchical Methods: 
+agglomerative and divisive methods; Density-Based Methods, Clustering with Constraints, 
+Outlier Detection 
+MODULE-3: CLASSIFICATION AND PREDICTION 
+Classification: Basic Concepts, Decision tree induction, Bayesian classification, Bayesian 
+Belief Networks; Lazy Learners, Rule based classification, Model Evaluation and Selection, 
+improve classifier accuracy, back propagation through Neural Networks, Genetic Algorithm, 
+Support Vector Machines, Prediction: linear and non-linear regression techniques. 
+MODULE-4: ADVANCED MINING APPLICATIONS 
+ Web Mining, Web page layout structure; mining web 
+link structure, content and usage patterns;
+03/08/22, 11:01 am - Payal Dhingra Mam Ymca: Syllabus for sessional 2
+03/08/22, 11:01 am - Payal Dhingra Mam Ymca: Hope fine
+03/08/22, 11:01 am - Bhavya CSDS: This message was deleted
+03/08/22, 11:13 am - Devansh CSDS: Maam module 4 pura hi htado
+03/08/22, 11:15 am - Aditya CSDS: ++
+03/08/22, 11:16 am - ARYAN CSDS: ++
+03/08/22, 11:17 am - Ritesh Goyal CSDS: ++
+03/08/22, 11:20 am - Payal Dhingra Mam Ymca: Nahi yeh theek h
+03/08/22, 11:20 am - Payal Dhingra Mam Ymca: Jyada nahi hai
+03/08/22, 11:21 am - KurKure CSDS: Bahut jaada h mam 🥲
+03/08/22, 11:21 am - Devansh CSDS: Maam ek din mien 2 subject padne hai
+03/08/22, 11:21 am - Devansh CSDS: Bahut zyada hai
+03/08/22, 11:21 am - Muskan CSDS Notes: Aadhe din mein ma'am 🥲🥲
+03/08/22, 11:21 am - Neeraj Keeda 🪳: Yes mam 3 din m 6 h upr se viva or aagae beechm
+03/08/22, 11:22 am - Devansh CSDS: Yes ma'am
+03/08/22, 11:22 am - Rishabh CSDS: Padhe kb bnda class bhi off ni krre ye
+03/08/22, 11:31 am - Siya CSDS: ++
+03/08/22, 11:33 am - Payal Dhingra Mam Ymca: Ok
+03/08/22, 11:33 am - Payal Dhingra Mam Ymca: Done
+03/08/22, 11:33 am - Ritesh Goyal CSDS: Thanks mam
+03/08/22, 11:34 am - Devansh CSDS: Thanks ma'am
+03/08/22, 11:34 am - Rishabh CSDS: Thanku mam🥺
+03/08/22, 11:34 am - Tushar CSDS: This message was deleted
+03/08/22, 12:04 pm - Bhavya CSDS: Thanks mam
+03/08/22, 6:26 pm - Rishabh CSDS: @918800311601 Mam,
+Unit 3 ke notes bhi bhejoge kya aap?
+03/08/22, 8:01 pm - Jaishree CSDS: @918800311601 ma'am please give an overview of tomorrow's viva
+03/08/22, 8:02 pm - Komal CSDS: Yes ma’am please!
+03/08/22, 8:02 pm - +91 82952 49361: +1
+03/08/22, 8:03 pm - Surbhi CSDS: +1
+03/08/22, 8:03 pm - Rishabh Bhadana CSDS: Timing++
+03/08/22, 8:04 pm - Jaishree CSDS: 11:05 am onwards
+03/08/22, 8:05 pm - Jigar CSDS: File in soft copy ?
+03/08/22, 8:05 pm - Ani CSDS: Yusss
+03/08/22, 8:05 pm - Jigar CSDS: 👍
+03/08/22, 8:06 pm - Jaishree CSDS: Hard copy
+03/08/22, 8:06 pm - Ani CSDS: Ye kab bola
+03/08/22, 8:06 pm - Ani CSDS: Mam e
+03/08/22, 8:06 pm - Ani CSDS: Ne
+03/08/22, 8:06 pm - Manish CSDS: +
+03/08/22, 8:07 pm - Ani CSDS: Complete krke dena  h bs
+03/08/22, 8:07 pm - Ritesh Jha CSDS: Soft copy ka printout
+03/08/22, 8:07 pm - Ani CSDS: Isse to ppr waste hote
+03/08/22, 8:07 pm - Tushar CSDS: Ye kab bola
+03/08/22, 8:07 pm - Tushar CSDS: ++
+03/08/22, 8:07 pm - Komal CSDS: ye to understood hai
+03/08/22, 8:07 pm - Ani CSDS: Ese thori
+03/08/22, 8:07 pm - Ani CSDS: Understood hota
+03/08/22, 8:08 pm - Ritesh Jha CSDS: +++🤝
+03/08/22, 8:08 pm - Tushar CSDS: ++
+03/08/22, 8:08 pm - Geetika Ymca: +
+03/08/22, 8:08 pm - Payal Dhingra Mam Ymca: Data mining basics
+03/08/22, 8:08 pm - Payal Dhingra Mam Ymca: Implementation mai Library used
+03/08/22, 8:08 pm - KurKure CSDS: +
+03/08/22, 8:08 pm - Ani CSDS: 🥄
+03/08/22, 8:09 pm - Payal Dhingra Mam Ymca: Prepare accordingly
+03/08/22, 8:09 pm - Kshitiz CSDS: 😀
+03/08/22, 8:09 pm - Payal Dhingra Mam Ymca: Hard copy of file is required
+03/08/22, 8:10 pm - Payal Dhingra Mam Ymca: Data mining lab with python is first time..
+03/08/22, 8:10 pm - Jaishree CSDS: Do we have to learn the whole codes ma'am?
+03/08/22, 8:10 pm - Payal Dhingra Mam Ymca: Earlier mtech mai spss software se
+03/08/22, 8:10 pm - Payal Dhingra Mam Ymca: Hoti thi
+03/08/22, 8:11 pm - Payal Dhingra Mam Ymca: Btech mai CsDs only has
+03/08/22, 8:11 pm - Kshitiz CSDS: 😔
+03/08/22, 8:11 pm - Payal Dhingra Mam Ymca: But this will help you in ml
+03/08/22, 8:11 pm - Kshitiz CSDS: 😀
+03/08/22, 8:12 pm - Devansh CSDS: 😂
+03/08/22, 8:13 pm - Geetika Ymca: +
+03/08/22, 8:13 pm - Surbhi CSDS: +
+03/08/22, 8:13 pm - +91 82952 49361: +1
+03/08/22, 8:14 pm - Payal Dhingra Mam Ymca: Hmm .. some .. functions are must
+03/08/22, 8:14 pm - Devansh CSDS: For example
+03/08/22, 8:14 pm - Payal Dhingra Mam Ymca: Help you get using tab+ alt
+03/08/22, 8:14 pm - Payal Dhingra Mam Ymca: Ek bar check karna
+03/08/22, 8:16 pm - Payal Dhingra Mam Ymca: Unit 3 notes already sent
+03/08/22, 8:16 pm - Surbhi CSDS: To mam implement kese krenge... Pc pe ya written?
+03/08/22, 8:16 pm - Devansh CSDS: Viva hona tha na bs?
+03/08/22, 8:17 pm - Payal Dhingra Mam Ymca: Lab dekhte h free hai k nhi
+03/08/22, 8:17 pm - Muskan CSDS Notes: Haan
+03/08/22, 10:48 pm - Payal Dhingra Mam Ymca: Anyone send question paper sessional 1
+03/08/22, 10:51 pm - Pradeep CSDS: <Media omitted>
+03/08/22, 11:06 pm - Payal Dhingra Mam Ymca: Ok
+04/08/22, 12:53 pm - Payal Dhingra Mam Ymca: Take black pen from cco9
+04/08/22, 12:53 pm - Payal Dhingra Mam Ymca: Jisne bhi diya g
+04/08/22, 12:53 pm - Payal Dhingra Mam Ymca: Hai
+04/08/22, 4:30 pm - +91 98124 41174: Kisi k paas Jaanvi ki Data Mining ki practical file h kya?
+04/08/22, 4:42 pm - Aniket CSDS: Meri file bhi hi bta dio
+04/08/22, 4:43 pm - Payal Dhingra Mam Ymca: Mere table pe 1-2 files hai
+04/08/22, 4:43 pm - Payal Dhingra Mam Ymca: Kal dekh lena
+04/08/22, 4:43 pm - Payal Dhingra Mam Ymca: Morning aaoge?
+04/08/22, 4:44 pm - Aniket CSDS: Yes mam
+04/08/22, 4:45 pm - Payal Dhingra Mam Ymca: Ok
+06/08/22, 6:33 pm - Jaishree CSDS: @918800311601 ma'am please share the list of first sessional marks
+06/08/22, 6:37 pm - Payal Dhingra Mam Ymca: ok
+08/08/22, 7:08 pm - Payal Dhingra Mam Ymca: Hello can anyone tell when were 1 st sessional dates
+08/08/22, 7:08 pm - Payal Dhingra Mam Ymca: May mai kab the sessionals
+08/08/22, 7:09 pm - Rishabh CSDS: 19th may data mining
+08/08/22, 7:09 pm - Manish CSDS: <Media omitted>
+08/08/22, 7:09 pm - Bhavya CSDS: 18-20
+08/08/22, 7:09 pm - Payal Dhingra Mam Ymca: Okay
+08/08/22, 7:10 pm - Rishabh Bhadana CSDS: Mam isbar kitane marks ka hoga sessional
+08/08/22, 7:13 pm - Muskan CSDS Notes: +1
+08/08/22, 7:14 pm - Payal Dhingra Mam Ymca: 30
+08/08/22, 7:15 pm - Payal Dhingra Mam Ymca: Easy hai
+08/08/22, 7:15 pm - Neeraj Keeda 🪳: Imp btado mam
+08/08/22, 7:17 pm - Nitin CSDS: +1
+08/08/22, 7:21 pm - Abhishek CSDS: +1
+08/08/22, 7:56 pm - JD CSDS: +1
+08/08/22, 7:56 pm - ARYAN CSDS: ++
+08/08/22, 7:56 pm - Kshitiz CSDS: 🥹
+08/08/22, 8:19 pm - Ani CSDS: 🥺yus mam is baar btado final hum dekhlenge
+08/08/22, 9:03 pm - Jaishree CSDS: @918800311601 ma'am please share the marks list
+08/08/22, 9:03 pm - Devansh CSDS: +1
+08/08/22, 9:05 pm - Kshitiz CSDS: +1
+08/08/22, 9:09 pm - Rahul CSDS: +1
+08/08/22, 10:13 pm - Prince Rathore CSDS: +1
+08/08/22, 11:13 pm - Muskan CSDS Notes: +1
+08/08/22, 11:22 pm - +91 98124 41174: +
+08/08/22, 11:22 pm - +91 98124 41174: +
+08/08/22, 11:37 pm - Muskan CSDS Notes: +1
+09/08/22, 8:21 pm - Rishabh Bhadana CSDS: +
+09/08/22, 8:27 pm - Prince Rathore CSDS: @918800311601 ma'am please share the marks list
+09/08/22, 8:28 pm - Payal Dhingra Mam Ymca: yes i will do pls wait tomrw i will do.. today i m compiling the attendance
+10/08/22, 12:10 pm - Payal Dhingra Mam Ymca: Hello pls
+10/08/22, 12:10 pm - Kshitiz CSDS: Hlo mam
+10/08/22, 12:11 pm - Neeraj Keeda 🪳: Hello mam
+10/08/22, 12:11 pm - Kshitiz CSDS: 😀
+10/08/22, 12:11 pm - Payal Dhingra Mam Ymca: Send data mining session 2 ques paper
+10/08/22, 1:49 pm - Muskan CSDS Notes: <Media omitted>
+10/08/22, 2:44 pm - Payal Dhingra Mam Ymca: Thank u
+28/10/22, 11:36 pm - Tanya CSDS left
+18/11/22, 9:34 am - Bhavesh CSDS left
+20/12/22, 11:13 am - Payal Dhingra Mam Ymca: Project reports sign kara lo..
+20/12/22, 11:13 am - Payal Dhingra Mam Ymca: Aaj
+20/12/22, 11:23 am - Ani CSDS: Okey mam
+21/12/22, 10:42 am - Payal Dhingra Mam Ymca: ..
+21/12/22, 10:42 am - Payal Dhingra Mam Ymca: In my cabin
+21/12/22, 10:42 am - Payal Dhingra Mam Ymca: Who all left
+10/01/23, 4:57 pm - Payal Dhingra Mam Ymca changed the group name from "Data Mining DS" to "Machine Learning CS DS"
+10/01/23, 4:57 pm - Payal Dhingra Mam Ymca: Hi all
+10/01/23, 4:58 pm - Payal Dhingra Mam Ymca: will be teaching Machine learning
+10/01/23, 4:58 pm - Jigar CSDS: Hello ma’am
+10/01/23, 4:58 pm - Payal Dhingra Mam Ymca: so just retaining this grp for sem 6
+24/01/23, 8:54 am - Payal Dhingra Mam Ymca: Hello
+24/01/23, 8:55 am - Payal Dhingra Mam Ymca: What about classes
+24/01/23, 9:47 am - Jaishree CSDS: Ma'am please take it from next week as students are at home this week
+24/01/23, 9:47 am - Payal Dhingra Mam Ymca: Okay
+01/02/23, 10:57 am - Payal Dhingra Mam Ymca: <Media omitted>
+01/02/23, 10:57 am - Payal Dhingra Mam Ymca: <Media omitted>
+01/02/23, 10:57 am - Payal Dhingra Mam Ymca: Cc09 lab
+01/02/23, 11:25 am - Payal Dhingra Mam Ymca: <Media omitted>
+01/02/23, 11:26 am - Payal Dhingra Mam Ymca: <Media omitted>
+02/02/23, 9:55 am - You added Bhavesh CSDS
+06/02/23, 2:43 am - ARYAN CSDS: This message was deleted
+06/02/23, 2:03 pm - Payal Dhingra Mam Ymca: https://www.nltk.org/
+06/02/23, 2:03 pm - +91 80591 34175 left
+06/02/23, 3:34 pm - Muskan CSDS Notes: This message was deleted
+06/02/23, 3:36 pm - Muskan CSDS Notes: <Media omitted>
+06/02/23, 10:04 pm - Payal Dhingra Mam Ymca: <Media omitted>
+06/02/23, 10:04 pm - Payal Dhingra Mam Ymca: <Media omitted>
+06/02/23, 10:05 pm - Payal Dhingra Mam Ymca: <Media omitted>
+06/02/23, 10:05 pm - Payal Dhingra Mam Ymca: For Tomorrow
+08/02/23, 11:08 am - Payal Dhingra Mam Ymca: <Media omitted>
+08/02/23, 1:45 pm - Payal Dhingra Mam Ymca: https://www.nltk.org/
+08/02/23, 2:22 pm - +91 98112 51346: <Media omitted>
+08/02/23, 2:23 pm - +91 98112 51346: <Media omitted>
+08/02/23, 2:53 pm - Smriti CSDS: This message was deleted
+08/02/23, 2:55 pm - Smriti CSDS: This message was deleted
+08/02/23, 2:55 pm - Harsh: null
+08/02/23, 2:55 pm - Smriti CSDS: This message was deleted
+08/02/23, 2:55 pm - Neeraj Keeda 🪳: null
+08/02/23, 2:56 pm - Smriti CSDS: This message was deleted
+08/02/23, 2:56 pm - Smriti CSDS: This message was deleted
+08/02/23, 2:56 pm - Jaishree CSDS changed this group's settings to allow only admins to send messages to this group
+08/02/23, 2:56 pm - Jaishree CSDS changed the settings so only admins can edit the group settings
+08/02/23, 10:42 pm - Payal Dhingra Mam Ymca: https://www.analyticsvidhya.com/blog/2021/07/nltk-a-beginners-hands-on-guide-to-natural-language-processing/
+08/02/23, 10:42 pm - Payal Dhingra Mam Ymca: Lab program 2 👆🏻
+08/02/23, 10:43 pm - Payal Dhingra Mam Ymca: Program 1
+09/02/23, 11:16 am - Payal Dhingra Mam Ymca: <Media omitted>
+09/02/23, 11:17 am - Payal Dhingra Mam Ymca: <Media omitted>
+09/02/23, 11:17 am - Payal Dhingra Mam Ymca: <Media omitted>
+09/02/23, 11:18 am - Payal Dhingra Mam Ymca: <Media omitted>
+09/02/23, 11:19 am - Payal Dhingra Mam Ymca: Formula + mai..
+13/02/23, 1:37 pm - Payal Dhingra Mam Ymca: <Media omitted>
+13/02/23, 1:37 pm - Payal Dhingra Mam Ymca: Lab program 3 house price prediction
+13/02/23, 1:38 pm - Payal Dhingra Mam Ymca: Using linear regression
+13/02/23, 1:38 pm - Payal Dhingra Mam Ymca: <Media omitted>
+13/02/23, 1:39 pm - Payal Dhingra Mam Ymca: <Media omitted>
+13/02/23, 1:40 pm - Payal Dhingra Mam Ymca: <Media omitted>
+13/02/23, 1:41 pm - Payal Dhingra Mam Ymca: <Media omitted>
+15/02/23, 10:30 pm - Payal Dhingra Mam Ymca: <Media omitted>
+15/02/23, 10:32 pm - Payal Dhingra Mam Ymca: https://www.xoriant.com/blog/decision-trees-for-classification-a-machine-learning-algorithm
+20/02/23, 12:08 pm - Payal Dhingra Mam Ymca: <Media omitted>
+20/02/23, 12:08 pm - Payal Dhingra Mam Ymca: todays work both groups
+20/02/23, 12:08 pm - Payal Dhingra Mam Ymca: group 2 lab on Wednesday will not be there..
+20/02/23, 12:08 pm - Payal Dhingra Mam Ymca: <Media omitted>
+20/02/23, 12:08 pm - Payal Dhingra Mam Ymca: <Media omitted>
+20/02/23, 12:08 pm - Payal Dhingra Mam Ymca: <Media omitted>
+20/02/23, 12:08 pm - Payal Dhingra Mam Ymca: so i will take online
+20/02/23, 12:08 pm - Payal Dhingra Mam Ymca: on thurs
+20/02/23, 12:09 pm - Payal Dhingra Mam Ymca: coefficient graph those near to zero are less important
+20/02/23, 12:10 pm - Payal Dhingra Mam Ymca: Today.. for G1 lab will b there
+20/02/23, 12:11 pm - Payal Dhingra Mam Ymca: For G2
+21/02/23, 6:46 am - Jaishree CSDS: Good morning @918800311601 ma'am
+Our class is not coming today
+21/02/23, 8:24 am - Payal Dhingra Mam Ymca: Okay
+21/02/23, 11:53 am - Payal Dhingra Mam Ymca: Aaj sab kahan pe hai
+21/02/23, 11:55 am - Jaishree CSDS: Ghar pe ma'am
+21/02/23, 11:56 am - Payal Dhingra Mam Ymca: Ok
+21/02/23, 11:56 am - Payal Dhingra Mam Ymca: I thought today is some event
+21/02/23, 11:56 am - Jaishree CSDS: No ma'am
+21/02/23, 11:57 am - Payal Dhingra Mam Ymca: Is someone interested in writing a book chapter
+21/02/23, 11:57 am - Payal Dhingra Mam Ymca: In machine learning
+21/02/23, 11:58 am - Payal Dhingra Mam Ymca: I will share the outline
+21/02/23, 11:58 am - Payal Dhingra Mam Ymca: Processing is free of cost
+21/02/23, 7:04 pm - Payal Dhingra Mam Ymca: <Media omitted>
+26/02/23, 7:10 pm - Payal Dhingra Mam Ymca: revise ID3 decision trees Entropy and Information Gain
+26/02/23, 7:10 pm - Payal Dhingra Mam Ymca: which was done in data mining
+26/02/23, 7:10 pm - Payal Dhingra Mam Ymca: for the lab
+27/02/23, 11:36 pm - Harsh: Ma'am can you take tomorrow's class in online mode?
+27/02/23, 11:36 pm - Payal Dhingra Mam Ymca: Not coming..
+27/02/23, 11:36 pm - Payal Dhingra Mam Ymca: Tomorrow?
+27/02/23, 11:36 pm - Harsh: We have only 2 classes
+27/02/23, 11:36 pm - Harsh: Scheduled
+27/02/23, 11:37 pm - Payal Dhingra Mam Ymca: Ok
+27/02/23, 11:37 pm - Harsh: Thank you ma'am 🥹
+27/02/23, 11:37 pm - Payal Dhingra Mam Ymca: Which ones
+27/02/23, 11:37 pm - Payal Dhingra Mam Ymca: Other class in online mode or offline
+27/02/23, 11:38 pm - Harsh: Ma'am will try to convince her also
+27/02/23, 11:38 pm - Payal Dhingra Mam Ymca: Kon teacher
+27/02/23, 11:39 pm - Harsh: Dimple ma'am
+27/02/23, 11:39 pm - Payal Dhingra Mam Ymca: Ok..
+27/02/23, 11:39 pm - Payal Dhingra Mam Ymca: Time for tomorrow class
+27/02/23, 11:39 pm - Payal Dhingra Mam Ymca: ?
+27/02/23, 11:39 pm - Payal Dhingra Mam Ymca: Bata dena if coming in offline I will take offline if in online then online
+27/02/23, 11:40 pm - Harsh: Okay ma'am
+27/02/23, 11:40 pm - Payal Dhingra Mam Ymca: Kal 10 baje h
+27/02/23, 11:40 pm - Payal Dhingra Mam Ymca: Lecture
+27/02/23, 11:40 pm - Harsh: Okay ma'am
+27/02/23, 11:40 pm - Payal Dhingra Mam Ymca: When is sessional 1
+27/02/23, 11:40 pm - Payal Dhingra Mam Ymca: Any idea
+27/02/23, 11:40 pm - Harsh: From 13th march
+27/02/23, 11:41 pm - Payal Dhingra Mam Ymca: Ok.. then module 1 and last module
+27/02/23, 11:41 pm - Payal Dhingra Mam Ymca: Will come.. 4 topics I will cover
+27/02/23, 11:42 pm - Harsh: Okay ma'am
+28/02/23, 9:13 am - Payal Dhingra Mam Ymca: Class online?
+28/02/23, 9:13 am - Payal Dhingra Mam Ymca: Or offline?
+28/02/23, 9:34 am - Harsh: Online ma'am
+28/02/23, 9:50 am - Payal Dhingra Mam Ymca: Ok
+28/02/23, 9:50 am - Payal Dhingra Mam Ymca: I will share the link in 10 mins
+28/02/23, 9:50 am - Payal Dhingra Mam Ymca: Will start at 10.15
+28/02/23, 10:05 am - Harsh: Okay ma'am
+28/02/23, 10:08 am - Payal Dhingra Mam Ymca: To join the video meeting, click this link: https://meet.google.com/qoe-kofo-fsp
+Otherwise, to join by phone, dial +1 413-758-2535 and enter this PIN: 421 552 016#
+28/02/23, 10:47 am - Payal Dhingra Mam Ymca: <Media omitted>
+28/02/23, 10:47 am - Payal Dhingra Mam Ymca: <Media omitted>
+28/02/23, 10:48 am - Jaishree CSDS: 20001016005 also present
+28/02/23, 11:02 am - Jaishree CSDS changed this group's settings to allow all participants to send messages to this group
+28/02/23, 11:03 am - Anjali CSDS: 20001016007 present
+28/02/23, 11:09 am - ARYAN CSDS: 21001016502 present
+28/02/23, 11:09 am - Hooda CSDS: 20001016072
+28/02/23, 11:10 am - Hardeep CSDS: 21001016504
+28/02/23, 11:12 am - Tanya YMCA: 20001016076 also present
+28/02/23, 11:26 am - Surbhi CSDS: 20001016066 present
+28/02/23, 11:32 am - Payal Dhingra Mam Ymca: Ok
+28/02/23, 9:00 pm - Payal Dhingra Mam Ymca: For tomorrow lab G2 grp 3 programs to cover logistic regression, linear regression,  decision trees
+28/02/23, 9:00 pm - Payal Dhingra Mam Ymca: Last time lab nhi hui thi
+28/02/23, 9:00 pm - Payal Dhingra Mam Ymca: Will explain all 3 programs
+28/02/23, 9:00 pm - Payal Dhingra Mam Ymca: If in online mode G1 students can also join
+28/02/23, 9:01 pm - Payal Dhingra Mam Ymca: Code already shared for all programs
+28/02/23, 9:08 pm - Jaishree CSDS: Ok ma'am
+01/03/23, 9:56 am - Payal Dhingra Mam Ymca: i will share link in 5 mins
+01/03/23, 10:19 am - Payal Dhingra Mam Ymca: i will start lecture around 10.30
+01/03/23, 10:19 am - Payal Dhingra Mam Ymca: struck in some urgent work
+01/03/23, 10:19 am - Ritesh Goyal CSDS: Okay mam
+01/03/23, 10:40 am - Payal Dhingra Mam Ymca: To join the video meeting, click this link: https://meet.google.com/eki-gjiw-dia
+Otherwise, to join by phone, dial +1 720-608-2054 and enter this PIN: 555 267 759#
+01/03/23, 11:01 am - Jaishree CSDS: <Media omitted>
+01/03/23, 11:01 am - Jaishree CSDS: <Media omitted>
+01/03/23, 11:01 am - Jaishree CSDS: <Media omitted>
+01/03/23, 11:01 am - Jaishree CSDS: <Media omitted>
+01/03/23, 11:01 am - Jaishree CSDS: <Media omitted>
+01/03/23, 11:02 am - Mohan CSDS: Mohan Khandwal - 20001016030
+01/03/23, 11:03 am - Payal Dhingra Mam Ymca: Ok
+01/03/23, 11:03 am - Khushi CSDS: Khushi-20001016026
+01/03/23, 11:09 am - Muskan CSDS Notes: 20001016031-muskan
+01/03/23, 11:13 am - Ritesh Jha CSDS: 20001016075
+01/03/23, 11:13 am - Raman CSDS: 20001016048
+01/03/23, 11:14 am - Sid CSDS: 20001016060
+01/03/23, 11:18 am - Rohan CSDS: 20001016054
+01/03/23, 11:29 am - Tanya YMCA: 20001016076
+01/03/23, 11:40 am - Smriti CSDS: Smriti-20001016063
+01/03/23, 11:47 am - Mehak CSDS: Mehak 20001016029
+01/03/23, 11:54 am - Payal Dhingra Mam Ymca: Ok
+01/03/23, 1:48 pm - Payal Dhingra Mam Ymca: Hello all will take lab at 3
+01/03/23, 3:10 pm - Payal Dhingra Mam Ymca: To join the video meeting, click this link: https://meet.google.com/kpe-tnbx-eer
+Otherwise, to join by phone, dial +1 470-242-8299 and enter this PIN: 666 215 835#
+02/03/23, 10:54 am - Payal Dhingra Mam Ymca: Hello all
+02/03/23, 10:55 am - Payal Dhingra Mam Ymca: Due to some urgent work
+02/03/23, 10:55 am - Payal Dhingra Mam Ymca: I will take this lecture tomorrow
+02/03/23, 10:55 am - Hardeep CSDS: Okay mam
+02/03/23, 10:55 am - Rishabh CSDS: Okay mam
+03/03/23, 10:05 am - Payal Dhingra Mam Ymca: <Media omitted>
+06/03/23, 10:42 am - Payal Dhingra Mam Ymca: Time decide  Kar lo
+06/03/23, 10:42 am - Payal Dhingra Mam Ymca: Is 4 pm ok
+06/03/23, 10:42 am - Jaishree CSDS: Yes ma'am
+06/03/23, 10:42 am - Payal Dhingra Mam Ymca: Ya 3 pm
+06/03/23, 10:42 am - Payal Dhingra Mam Ymca: 3 pm ok karte h..
+06/03/23, 10:42 am - Payal Dhingra Mam Ymca: Only for 20 mins
+06/03/23, 10:43 am - Payal Dhingra Mam Ymca: I will let  you know from where to study
+06/03/23, 10:43 am - Jaishree CSDS: Ok ma'am
+09/03/23, 7:21 pm - Harsh: Ma'am please share notes
+09/03/23, 7:22 pm - Payal Dhingra Mam Ymca: https://www.xoriant.com/blog/decision-trees-for-classification-a-machine-learning-algorithm
+09/03/23, 7:22 pm - Payal Dhingra Mam Ymca: <Media omitted>
+09/03/23, 7:22 pm - Payal Dhingra Mam Ymca: <Media omitted>
+09/03/23, 7:22 pm - Payal Dhingra Mam Ymca: <Media omitted>
+09/03/23, 7:22 pm - Payal Dhingra Mam Ymca: <Media omitted>
+09/03/23, 7:22 pm - Payal Dhingra Mam Ymca: <Media omitted>
+09/03/23, 7:22 pm - Payal Dhingra Mam Ymca: <Media omitted>
+09/03/23, 7:22 pm - Payal Dhingra Mam Ymca: <Media omitted>
+09/03/23, 7:22 pm - Payal Dhingra Mam Ymca: <Media omitted>
+09/03/23, 7:22 pm - Payal Dhingra Mam Ymca: <Media omitted>
+09/03/23, 7:22 pm - Payal Dhingra Mam Ymca: <Media omitted>
+02/08/23, 10:27 pm - Payal Dhingra Mam Ymca: I will show sheets on Friday
+02/08/23, 10:27 pm - Payal Dhingra Mam Ymca: Are you coming on Friday?
+02/08/23, 10:27 pm - Rishabh CSDS: Kl aare mam kl dikhado na
+02/08/23, 10:28 pm - Payal Dhingra Mam Ymca: Kal aa rahe ho?
+02/08/23, 10:28 pm - Rahul CSDS: +++
+02/08/23, 10:28 pm - Rishabh CSDS: Yes mam
+02/08/23, 10:28 pm - Rahul CSDS: ++
+02/08/23, 10:28 pm - Payal Dhingra Mam Ymca: Ok..
+02/08/23, 10:28 pm - Rishabh CSDS: Thank you mam
+02/08/23, 10:29 pm - Payal Dhingra Mam Ymca: Marks theek toh h kya karoge dekh Kar.
+02/08/23, 10:38 pm - Ani CSDS: Ye b baat hai
+08/08/23, 10:45 am - Payal Dhingra Mam Ymca: Marks final upload Kar du
+08/08/23, 10:46 am - +91 82878 89628: maam 2 mark se grade change horha hai
+08/08/23, 10:49 am - Payal Dhingra Mam Ymca: Aaj dekh lo ek bar
+08/08/23, 10:49 am - Payal Dhingra Mam Ymca: Sheets
+08/08/23, 10:49 am - Payal Dhingra Mam Ymca: 1 baje se phele
+08/08/23, 11:13 am - Jaishree CSDS: Mam aaj zenon ka test h.. time extend kar do
+08/08/23, 11:14 am - Payal Dhingra Mam Ymca: Ok
+08/08/23, 11:29 am - Payal Dhingra Mam Ymca: Grades I hve checked
+09/10/23, 2:56 pm - KurKure CSDS left
