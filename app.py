@@ -14,7 +14,7 @@ if uploaded_file is not None:
 
     # fetch unique users
     userList = df['user'].unique().tolist()
-    userList.remove('group_notification')
+    # userList.remove('group_notification')
     userList.sort()
     userList.insert(0, "Overall")
 
