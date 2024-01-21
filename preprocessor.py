@@ -3,7 +3,9 @@ import pandas as pd
 
 
 def preprocess(data):
-    pattern_12hr = '\d{1,2}\/\d{2,4}\/\d{2,4},\s\d{1,2}:\d{1,2}\s\w{1,2}\s-\s'
+    # pattern_12hr = '\d{1,2}\/\d{2,4}\/\d{2,4},\s\d{1,2}:\d{1,2}\s\w{1,2}\s-\s'
+    pattern_12hr = '\d{2}\/\d{2}\/\d{2},\s\d{2}:\d{2}\s[APMapm]{2}\s-\s'
+
     pattern_24hr = '\d{1,2}\/\d{2,4}\/\d{2,4},\s\d{1,2}:\d{1,2}\s-\s'
 
     cnt = 0
@@ -22,7 +24,7 @@ def preprocess(data):
 
     df = pd.DataFrame({'user_message': messages, 'message_date': dates})
     if cnt == 0:
-        format = '%m/%d/%y, %I:%M %p - '
+        format = '%d/%m/%y, %I:%M %p - '
     else:
         format = '%d/%m/%y, %H:%M - '
 
